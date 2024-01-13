@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+<TargetFramework>net8.0-windows</TargetFramework>    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="loginForm\firstProject\images\" />
+    <Folder Include="loginForm\firstProject\Resources\" />
+    <Folder Include="LibraryManagement\Resources\" />
+  </ItemGroup>
+
+</Project>

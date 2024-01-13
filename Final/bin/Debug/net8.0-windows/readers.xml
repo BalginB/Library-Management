@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfReader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reader>
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <Address>123 Main St</Address>
+    <Age>25</Age>
+    <Borrowed />
+  </Reader>
+  <Reader>
+    <FirstName>Alice</FirstName>
+    <LastName>Smith</LastName>
+    <Address>456 Oak Ave</Address>
+    <Age>32</Age>
+    <Borrowed />
+  </Reader>
+  <Reader>
+    <FirstName>Bob</FirstName>
+    <LastName>Johnson</LastName>
+    <Address>789 Elm Rd</Address>
+    <Age>41</Age>
+    <Borrowed />
+  </Reader>
+  <Reader>
+    <FirstName>Emily</FirstName>
+    <LastName>Williams</LastName>
+    <Address>567 Pine Ln</Address>
+    <Age>28</Age>
+    <Borrowed />
+  </Reader>
+  <Reader>
+    <FirstName>Michael</FirstName>
+    <LastName>Anderson</LastName>
+    <Address>890 Cedar Dr</Address>
+    <Age>35</Age>
+    <Borrowed />
+  </Reader>
+</ArrayOfReader>

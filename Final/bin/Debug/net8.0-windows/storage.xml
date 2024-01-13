@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Title>The Shining</Title>
+    <Author>Stephen King</Author>
+    <Genre>Horror</Genre>
+    <Price>21</Price>
+  </Book>
+  <Book>
+    <Title>The Da Vinci Code</Title>
+    <Author>Dan Brown</Author>
+    <Genre>Thriller</Genre>
+    <Price>18</Price>
+  </Book>
+  <Book>
+    <Title>The Great Expectations</Title>
+    <Author>Charles Dickens</Author>
+    <Genre>Classic</Genre>
+    <Price>17</Price>
+  </Book>
+  <Book>
+    <Title>One Hundred Years of Solitude</Title>
+    <Author>Gabriel Garcia Marquez</Author>
+    <Genre>Magic Realism</Genre>
+    <Price>24</Price>
+  </Book>
+  <Book>
+    <Title>War and Peace</Title>
+    <Author>Leo Tolstoy</Author>
+    <Genre>Historical Fiction</Genre>
+    <Price>28</Price>
+  </Book>
+  <Book>
+    <Title>The Chronicles of Narnia</Title>
+    <Author>C.S. Lewis</Author>
+    <Genre>Fantasy</Genre>
+    <Price>26</Price>
+  </Book>
+  <Book>
+    <Title>The Road</Title>
+    <Author>Cormac McCarthy</Author>
+    <Genre>Post-Apocalyptic</Genre>
+    <Price>23</Price>
+  </Book>
+  <Book>
+    <Title>The Hitchhiker's Guide to the Galaxy</Title>
+    <Author>Douglas Adams</Author>
+    <Genre>Science Fiction</Genre>
+    <Price>20</Price>
+  </Book>
+  <Book>
+    <Title>The Grapes of Wrath</Title>
+    <Author>John Steinbeck</Author>
+    <Genre>Classic</Genre>
+    <Price>16</Price>
+  </Book>
+  <Book>
+    <Title>Crime and Punishment</Title>
+    <Author>Fyodor Dostoevsky</Author>
+    <Genre>Philosophical</Genre>
+    <Price>22</Price>
+  </Book>
+  <Book>
+    <Title>Frankenstein</Title>
+    <Author>Mary Shelley</Author>
+    <Genre>Horror</Genre>
+    <Price>18</Price>
+  </Book>
+  <Book>
+    <Title>Atlas Shrugged</Title>
+    <Author>Ayn Rand</Author>
+    <Genre>Philosophical</Genre>
+    <Price>25</Price>
+  </Book>
+  <Book>
+    <Title>The Count of Monte Cristo</Title>
+    <Author>Alexandre Dumas</Author>
+    <Genre>Adventure</Genre>
+    <Price>27</Price>
+  </Book>
+  <Book>
+    <Title>The Picture of Dorian Gray</Title>
+    <Author>Oscar Wilde</Author>
+    <Genre>Classic</Genre>
+    <Price>19</Price>
+  </Book>
+  <Book>
+    <Title>The Handmaid's Tale</Title>
+    <Author>Margaret Atwood</Author>
+    <Genre>Dystopian</Genre>
+    <Price>20</Price>
+  </Book>
+  <Book>
+    <Title>Dracula</Title>
+    <Author>Bram Stoker</Author>
+    <Genre>Horror</Genre>
+    <Price>21</Price>
+  </Book>
+  <Book>
+    <Title>The Art of War</Title>
+    <Author>Sun Tzu</Author>
+    <Genre>Philosophical</Genre>
+    <Price>15</Price>
+  </Book>
+  <Book>
+    <Title>The Girl with the Dragon Tattoo</Title>
+    <Author>Stieg Larsson</Author>
+    <Genre>Mystery</Genre>
+    <Price>23</Price>
+  </Book>
+  <Book>
+    <Title>Anna Karenina</Title>
+    <Author>Leo Tolstoy</Author>
+    <Genre>Classic</Genre>
+    <Price>26</Price>
+  </Book>
+  <Book>
+    <Title>The Silence of the Lambs</Title>
+    <Author>Thomas Harris</Author>
+    <Genre>Thriller</Genre>
+    <Price>22</Price>
+  </Book>
+  <Book>
+    <Title>The Three Musketeers</Title>
+    <Author>Alexandre Dumas</Author>
+    <Genre>Adventure</Genre>
+    <Price>18</Price>
+  </Book>
+  <Book>
+    <Title>The Lord of the Rings</Title>
+    <Author>J.R.R. Tolkien</Author>
+    <Genre>Fantasy</Genre>
+    <Price>30</Price>
+  </Book>
+  <Book>
+    <Title>The Hobbit</Title>
+    <Author>J.R.R. Tolkien</Author>
+    <Genre>Fantasy</Genre>
+    <Price>22</Price>
+  </Book>
+  <Book>
+    <Title>Brave New World</Title>
+    <Author>Aldous Huxley</Author>
+    <Genre>Dystopian</Genre>
+    <Price>19</Price>
+  </Book>
+</ArrayOfBook>

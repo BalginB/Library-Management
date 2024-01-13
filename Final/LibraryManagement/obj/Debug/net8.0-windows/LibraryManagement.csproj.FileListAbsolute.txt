@@ -1,0 +1,10 @@
+C:\Csharp\Bragar\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+C:\Csharp\Bragar\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.BookDialog.resources
+C:\Csharp\Bragar\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Form1.resources
+C:\Csharp\Bragar\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Properties.Resources.resources
+C:\Csharp\Bragar\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.ReaderDialog.resources
+C:\Csharp\Bragar\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.GenerateResource.cache
+C:\Csharp\Bragar\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Bragar\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+C:\Csharp\Bragar\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfo.cs
+C:\Csharp\Bragar\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache

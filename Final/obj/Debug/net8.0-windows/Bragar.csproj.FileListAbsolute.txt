@@ -1,0 +1,161 @@
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\firstProject.loginForm.resources
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\Bragar.firstProject.firstProject.Properties.Resources.resources
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\Bragar.Form1.resources
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\LibraryManagement.BookDialog.resources
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\LibraryManagement.Form1.resources
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\Bragar.LibraryManagement.Properties.Resources.resources
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\LibraryManagement.ReaderDialog.resources
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\Bragar.csproj.GenerateResource.cache
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\Bragar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\Bragar.AssemblyInfoInputs.cache
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\Bragar.AssemblyInfo.cs
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\Bragar.csproj.CoreCompileInputs.cache
+C:\Csharp\Bragar\bin\Debug\net8.0-windows\Bragar.exe
+C:\Csharp\Bragar\bin\Debug\net8.0-windows\Bragar.dll.config
+C:\Csharp\Bragar\bin\Debug\net8.0-windows\Bragar.deps.json
+C:\Csharp\Bragar\bin\Debug\net8.0-windows\Bragar.runtimeconfig.json
+C:\Csharp\Bragar\bin\Debug\net8.0-windows\Bragar.dll
+C:\Csharp\Bragar\bin\Debug\net8.0-windows\Bragar.pdb
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\Bragar.dll
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\refint\Bragar.dll
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\Bragar.pdb
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\Bragar.genruntimeconfig.cache
+C:\Csharp\Bragar\obj\Debug\net8.0-windows\ref\Bragar.dll
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.dll
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\refint\Bragar.dll
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.pdb
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\firstProject.loginForm.resources
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.firstProject.firstProject.Properties.Resources.resources
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.Form1.resources
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.BookDialog.resources
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.Form1.resources
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.LibraryManagement.Properties.Resources.resources
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.ReaderDialog.resources
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.csproj.GenerateResource.cache
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.AssemblyInfoInputs.cache
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.AssemblyInfo.cs
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.exe
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.dll.config
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.deps.json
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.runtimeconfig.json
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.dll
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.pdb
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.genruntimeconfig.cache
+C:\Users\Egor\Downloads\Telegram Desktop\Bragar (3)\Bragar\obj\Debug\net8.0-windows\ref\Bragar.dll
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\firstProject.loginForm.resources
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.firstProject.firstProject.Properties.Resources.resources
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.Form1.resources
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.BookDialog.resources
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.Form1.resources
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.LibraryManagement.Properties.Resources.resources
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.ReaderDialog.resources
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.csproj.GenerateResource.cache
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.AssemblyInfoInputs.cache
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.AssemblyInfo.cs
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.csproj.CoreCompileInputs.cache
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.dll
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\refint\Bragar.dll
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.pdb
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.exe
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.dll.config
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.deps.json
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.runtimeconfig.json
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.dll
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.pdb
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.genruntimeconfig.cache
+C:\Users\Legion5\Downloads\Telegram Desktop\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\ref\Bragar.dll
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.exe
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.dll.config
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.deps.json
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.runtimeconfig.json
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.dll
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.pdb
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\firstProject.loginForm.resources
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.firstProject.firstProject.Properties.Resources.resources
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.Form1.resources
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.BookDialog.resources
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.Form1.resources
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.LibraryManagement.Properties.Resources.resources
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.ReaderDialog.resources
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.csproj.GenerateResource.cache
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.AssemblyInfoInputs.cache
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.AssemblyInfo.cs
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.dll
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\refint\Bragar.dll
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.pdb
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.genruntimeconfig.cache
+C:\Users\Egor\Downloads\Telegram Desktop\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\ref\Bragar.dll
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\firstProject.loginForm.resources
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.Form1.resources
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.BookDialog.resources
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.Form1.resources
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\LibraryManagement.ReaderDialog.resources
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.csproj.GenerateResource.cache
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.LibraryManagement.Properties.Resources.resources
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.exe
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.dll.config
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.deps.json
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.runtimeconfig.json
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.dll
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\bin\Debug\net8.0-windows\Bragar.pdb
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.firstProject.firstProject.Properties.Resources.resources
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.AssemblyInfoInputs.cache
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.AssemblyInfo.cs
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.csproj.CoreCompileInputs.cache
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.dll
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\refint\Bragar.dll
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.pdb
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\Bragar.genruntimeconfig.cache
+C:\Csharp\bismillah (3)\bismillah\Bragar (3)\Bragar\obj\Debug\net8.0-windows\ref\Bragar.dll
+C:\Csharp\Финал\obj\Debug\net8.0-windows\Bragar.dll
+C:\Csharp\Финал\obj\Debug\net8.0-windows\refint\Bragar.dll
+C:\Csharp\Финал\obj\Debug\net8.0-windows\Bragar.pdb
+C:\Csharp\Финал\obj\Debug\net8.0-windows\firstProject.loginForm.resources
+C:\Csharp\Финал\obj\Debug\net8.0-windows\Bragar.firstProject.firstProject.Properties.Resources.resources
+C:\Csharp\Финал\obj\Debug\net8.0-windows\Bragar.Form1.resources
+C:\Csharp\Финал\obj\Debug\net8.0-windows\LibraryManagement.BookDialog.resources
+C:\Csharp\Финал\obj\Debug\net8.0-windows\LibraryManagement.Form1.resources
+C:\Csharp\Финал\obj\Debug\net8.0-windows\Bragar.LibraryManagement.Properties.Resources.resources
+C:\Csharp\Финал\obj\Debug\net8.0-windows\LibraryManagement.ReaderDialog.resources
+C:\Csharp\Финал\obj\Debug\net8.0-windows\Bragar.csproj.GenerateResource.cache
+C:\Csharp\Финал\obj\Debug\net8.0-windows\Bragar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Финал\obj\Debug\net8.0-windows\Bragar.AssemblyInfoInputs.cache
+C:\Csharp\Финал\obj\Debug\net8.0-windows\Bragar.AssemblyInfo.cs
+C:\Csharp\Финал\obj\Debug\net8.0-windows\Bragar.csproj.CoreCompileInputs.cache
+C:\Csharp\Финал\bin\Debug\net8.0-windows\Bragar.exe
+C:\Csharp\Финал\bin\Debug\net8.0-windows\Bragar.dll.config
+C:\Csharp\Финал\bin\Debug\net8.0-windows\Bragar.deps.json
+C:\Csharp\Финал\bin\Debug\net8.0-windows\Bragar.runtimeconfig.json
+C:\Csharp\Финал\bin\Debug\net8.0-windows\Bragar.dll
+C:\Csharp\Финал\bin\Debug\net8.0-windows\Bragar.pdb
+C:\Csharp\Финал\obj\Debug\net8.0-windows\Bragar.genruntimeconfig.cache
+C:\Csharp\Финал\obj\Debug\net8.0-windows\ref\Bragar.dll
+C:\Csharp\Final\bin\Debug\net8.0-windows\Bragar.exe
+C:\Csharp\Final\bin\Debug\net8.0-windows\Bragar.dll.config
+C:\Csharp\Final\bin\Debug\net8.0-windows\Bragar.deps.json
+C:\Csharp\Final\bin\Debug\net8.0-windows\Bragar.runtimeconfig.json
+C:\Csharp\Final\bin\Debug\net8.0-windows\Bragar.dll
+C:\Csharp\Final\bin\Debug\net8.0-windows\Bragar.pdb
+C:\Csharp\Final\obj\Debug\net8.0-windows\firstProject.loginForm.resources
+C:\Csharp\Final\obj\Debug\net8.0-windows\Bragar.Form1.resources
+C:\Csharp\Final\obj\Debug\net8.0-windows\LibraryManagement.BookDialog.resources
+C:\Csharp\Final\obj\Debug\net8.0-windows\LibraryManagement.Form1.resources
+C:\Csharp\Final\obj\Debug\net8.0-windows\Bragar.LibraryManagement.Properties.Resources.resources
+C:\Csharp\Final\obj\Debug\net8.0-windows\LibraryManagement.ReaderDialog.resources
+C:\Csharp\Final\obj\Debug\net8.0-windows\Bragar.csproj.GenerateResource.cache
+C:\Csharp\Final\obj\Debug\net8.0-windows\Bragar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Final\obj\Debug\net8.0-windows\Bragar.AssemblyInfoInputs.cache
+C:\Csharp\Final\obj\Debug\net8.0-windows\Bragar.AssemblyInfo.cs
+C:\Csharp\Final\obj\Debug\net8.0-windows\Bragar.csproj.CoreCompileInputs.cache
+C:\Csharp\Final\obj\Debug\net8.0-windows\Bragar.dll
+C:\Csharp\Final\obj\Debug\net8.0-windows\refint\Bragar.dll
+C:\Csharp\Final\obj\Debug\net8.0-windows\Bragar.pdb
+C:\Csharp\Final\obj\Debug\net8.0-windows\Bragar.genruntimeconfig.cache
+C:\Csharp\Final\obj\Debug\net8.0-windows\ref\Bragar.dll
+C:\Csharp\Final\obj\Debug\net8.0-windows\Bragar.loginForm.firstProject.Properties.Resources.resources

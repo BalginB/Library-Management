@@ -1,0 +1,13 @@
+C:\Csharp\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Csharp\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Csharp\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Csharp\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Csharp\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+C:\Csharp\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Csharp\LibraryManagement\obj\Debug\LibraryManagement.ReaderDialog.resources
+C:\Csharp\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Csharp\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Csharp\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Csharp\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Csharp\LibraryManagement\obj\Debug\LibraryManagement.BookDialog.resources
+C:\Csharp\Bragar\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
